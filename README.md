@@ -1,3 +1,3 @@
 # git-ptactice
 
-merge-commit-01
+Changes in master from remote
